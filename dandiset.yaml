@@ -22,8 +22,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: current clamp technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 5759449594
-  numberOfFiles: 110
+  numberOfBytes: 5877679819
+  numberOfFiles: 112
   numberOfSubjects: 11
   schemaKey: AssetsSummary
   species:
@@ -50,19 +50,25 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2026-02-16T22:51:33.839464+00:00'
-description: <PLACEHOLDER>
+description: BICAN HMBA Lein PatchSeq upload (nonhuman primate) (Q1 2026)
 ethicsApproval: []
 id: DANDI:001753/draft
 identifier: DANDI:001753
+keywords:
+- Patch-seq, nonhuman primate, macaque, multimodal
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001753/versions/draft/assets/
 name: 20260220_AIBS_Patchseq_BICAN_HMBA_macaque
+protocol:
+- https://www.protocols.io/view/patch-seq-recording-and-extraction-8epv51n45l1b/v3
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
+studyTarget:
+- 'Multimodal classifcation of cell types in the nonhuman primate. '
 url: https://dandiarchive.org/dandiset/001753/draft
 version: draft
 wasGeneratedBy:
