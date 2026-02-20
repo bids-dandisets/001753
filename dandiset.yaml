@@ -39,16 +39,68 @@ assetsSummary:
   - CurrentClampSeries
   - VoltageClampSeries
   - VoltageClampStimulusSeries
-citation: Gonzalez, Limary (2026) 20260220_AIBS_Patchseq_BICAN_HMBA_macaque (Version
-  draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001753/draft
+citation: Gonzalez, Limary; Lee, Brian; Kalmbach, Brian; Dalley, Rachel ; Lein, Ed;
+  Allen Institute for Brian Science; National Institute of Mental Health (2026) 20260220_AIBS_Patchseq_BICAN_HMBA_macaque
+  (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001753/draft
 contributor:
 - affiliation: []
+  awardNumber: UM1MH130981
   email: limary.gonzalez@alleninstitute.org
+  identifier: 0009-0009-0306-0002
   includeInCitation: true
   name: Gonzalez, Limary
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
+- awardNumber: UM1MH130981
+  email: brianle@alleninstitute.org
+  identifier: 0000-0002-3210-5638
+  includeInCitation: true
+  name: Lee, Brian
+  roleName:
+  - dcite:ContactPerson
+  schemaKey: Person
+- awardNumber: UM1MH130981
+  email: briank@alleninstitute.org
+  identifier: 0000-0003-3136-8097
+  includeInCitation: true
+  name: Kalmbach, Brian
+  roleName:
+  - dcite:ContactPerson
+  schemaKey: Person
+- awardNumber: UM1MH130981
+  email: racheld@alleninstitute.org
+  identifier: 0000-0001-7461-7845
+  includeInCitation: true
+  name: 'Dalley, Rachel '
+  roleName:
+  - dcite:ProjectMember
+  schemaKey: Person
+- awardNumber: UM1MH130981
+  email: edl@alleninstitute.org
+  identifier: 0000-0001-9012-6552
+  includeInCitation: true
+  name: Lein, Ed
+  roleName:
+  - dcite:ProjectLeader
+  schemaKey: Person
+- awardNumber: UM1MH130981
+  contactPoint: []
+  identifier: https://ror.org/00dcv1019
+  includeInCitation: true
+  name: Allen Institute for Brian Science
+  roleName:
+  - dcite:Affiliation
+  schemaKey: Organization
+  url: https://alleninstitute.org/
+- awardNumber: UM1MH130981
+  identifier: https://ror.org/04xeg9z08
+  includeInCitation: true
+  name: National Institute of Mental Health
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: https://www.nimh.nih.gov/
 dateCreated: '2026-02-16T22:51:33.839464+00:00'
 description: BICAN HMBA Lein PatchSeq upload (nonhuman primate) (Q1 2026)
 ethicsApproval: []
