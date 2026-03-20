@@ -8,7 +8,7 @@
 		License
 		/dataset_description.json - Field description: The license for the dataset.
 The use of license name abbreviations is RECOMMENDED for specifying a license
-(see [Licenses](SPEC_ROOT/appendices/licenses.md)).
+(see [Licenses](https://bids-specification.readthedocs.io/en/stable/appendices/licenses.md)).
 The corresponding full license text MAY be specified in an additional
 `LICENSE` file.
 
@@ -20,7 +20,7 @@ The corresponding full license text MAY be specified in an additional
 		SourceDatasets
 		/dataset_description.json - Field description: Used to specify the locations and relevant attributes of all source datasets (BIDS or not).
 Valid keys in each object include `"URL"`, `"DOI"` (see
-[URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)), and
+[URI](https://bids-specification.readthedocs.io/en/stable/common-principles.md#uniform-resource-indicator)), and
 `"Version"` with
 [string](https://www.w3schools.com/js/js_json_datatypes.asp)
 values.
@@ -50,4 +50,3 @@ will make DOI registration from dataset metadata impossible.
           1 Files, 56 B                                                                 
           0 - Subjects 1 - Sessions                                                     
 
-	If you have any questions, please post on https://neurostars.org/tags/bids.
