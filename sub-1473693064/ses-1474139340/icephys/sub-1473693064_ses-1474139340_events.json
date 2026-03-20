@@ -1,0 +1,25 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset).",
+        "Units": "s"
+    },
+    "treelevel": {
+        "Description": "Tree Level"
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "epochs": "The 'epochs' table in the NWB file."
+        },
+        "HED": {
+            "epochs": "Time-block"
+        }
+    },
+    "epochs": {
+        "Description": "experimental epochs"
+    }
+}
