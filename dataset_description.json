@@ -1,4 +1,17 @@
 {
+    "Name": "20260220_AIBS_Patchseq_BICAN_HMBA_macaque",
     "BIDSVersion": "1.10",
-    "HEDVersion": "8.3.0"
+    "HEDVersion": "8.3.0",
+    "Description": "BICAN HMBA Lein PatchSeq upload (nonhuman primate) (Q1 2026)",
+    "DatasetType": "raw",
+    "Authors": [],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.12.1.dev4+gc93cee118",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
 }
