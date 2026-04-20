@@ -4,7 +4,13 @@
     "HEDVersion": "8.3.0",
     "Description": "BICAN HMBA Lein PatchSeq upload (nonhuman primate) (Q1 2026)",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Gonzalez, Limary",
+        "Lee, Brian",
+        "Kalmbach, Brian",
+        "Dalley, Rachel ",
+        "Lein, Ed"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
