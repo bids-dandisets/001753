@@ -4,12 +4,18 @@
     "HEDVersion": "8.3.0",
     "Description": "BICAN HMBA Lein PatchSeq upload (nonhuman primate) (Q1 2026)",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Gonzalez, Limary",
+        "Lee, Brian",
+        "Kalmbach, Brian",
+        "Dalley, Rachel ",
+        "Lein, Ed"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
             "Name": "nwb2bids",
-            "Version": "0.12.1.dev4+gc93cee118",
+            "Version": "0.12.1.dev6+gf29fa0039",
             "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
             "CodeURL": "https://github.com/con/nwb2bids"
         }
