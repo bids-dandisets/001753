@@ -1,0 +1,102 @@
+	[WARNING] JSON_KEY_RECOMMENDED A JSON file is missing a key listed as recommended.
+		SourceDatasets
+		/dataset_description.json - Field description: Used to specify the locations and relevant attributes of all source datasets (BIDS or not).
+Valid keys in each object include `"URL"`, `"DOI"` (see
+[URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)), and
+`"Version"` with
+[string](https://www.w3schools.com/js/js_json_datatypes.asp)
+values.
+
+
+	Please visit https://neurostars.org/search?q=JSON_KEY_RECOMMENDED for existing conversations about this issue.
+
+	[WARNING] SIDECAR_KEY_RECOMMENDED A data file's JSON sidecar is missing a key listed as recommended.
+		StimulusPresentation
+		/sub-1475259024/ses-1475389906/icephys/sub-1475259024_ses-1475389906_events.tsv - Field description: Object containing key-value pairs related to the software used to present
+the stimuli during the experiment.
+
+		/sub-1475259024/ses-1475395904/icephys/sub-1475259024_ses-1475395904_events.tsv - Field description: Object containing key-value pairs related to the software used to present
+the stimuli during the experiment.
+
+
+		110 more files with the same issue
+
+		Manufacturer
+		/sub-1475259024/ses-1475389906/icephys/sub-1475259024_ses-1475389906_icephys.nwb - Field description: Manufacturer of the equipment that produced the measurements.
+
+		/sub-1475259024/ses-1475395904/icephys/sub-1475259024_ses-1475395904_icephys.nwb - Field description: Manufacturer of the equipment that produced the measurements.
+
+
+		110 more files with the same issue
+
+		RecordingDuration
+		/sub-1475259024/ses-1475389906/icephys/sub-1475259024_ses-1475389906_icephys.nwb - Field description: Length of the recording in seconds (for example, `3600`).
+
+		/sub-1475259024/ses-1475395904/icephys/sub-1475259024_ses-1475395904_icephys.nwb - Field description: Length of the recording in seconds (for example, `3600`).
+
+
+		110 more files with the same issue
+
+		RecordingType
+		/sub-1475259024/ses-1475389906/icephys/sub-1475259024_ses-1475389906_icephys.nwb - Field description: Defines whether the recording is `"continuous"`, `"discontinuous"`, or
+`"epoched"`, where `"epoched"` is limited to time windows about events of
+interest (for example, stimulus presentations or subject responses).
+
+		/sub-1475259024/ses-1475395904/icephys/sub-1475259024_ses-1475395904_icephys.nwb - Field description: Defines whether the recording is `"continuous"`, `"discontinuous"`, or
+`"epoched"`, where `"epoched"` is limited to time windows about events of
+interest (for example, stimulus presentations or subject responses).
+
+
+		110 more files with the same issue
+
+		BodyPart
+		/sub-1475259024/ses-1475389906/icephys/sub-1475259024_ses-1475389906_icephys.nwb - Field description: Body part of the organ / body region scanned.
+
+		/sub-1475259024/ses-1475395904/icephys/sub-1475259024_ses-1475395904_icephys.nwb - Field description: Body part of the organ / body region scanned.
+
+
+		110 more files with the same issue
+
+		BodyPartDetails
+		/sub-1475259024/ses-1475389906/icephys/sub-1475259024_ses-1475389906_icephys.nwb - Field description: Additional details about body part or location (for example: `"corpus callosum"`).
+
+		/sub-1475259024/ses-1475395904/icephys/sub-1475259024_ses-1475395904_icephys.nwb - Field description: Additional details about body part or location (for example: `"corpus callosum"`).
+
+
+		110 more files with the same issue
+
+	Please visit https://neurostars.org/search?q=SIDECAR_KEY_RECOMMENDED for existing conversations about this issue.
+
+	[WARNING] TSV_COLUMN_TYPE_REDEFINED A column required in a TSV file has been redefined in a sidecar file. This redefinition is being ignored.
+		sampling_frequency
+		/sub-1475259024/ses-1475389906/icephys/sub-1475259024_ses-1475389906_channels.json - Format "string" must be number
+		/sub-1475259024/ses-1475395904/icephys/sub-1475259024_ses-1475395904_channels.json - Format "string" must be number
+
+		110 more files with the same issue
+
+		x
+		/sub-1475259024/ses-1475389906/icephys/sub-1475259024_ses-1475389906_electrodes.json - Format "string" must be number
+		/sub-1475259024/ses-1475395904/icephys/sub-1475259024_ses-1475395904_electrodes.json - Format "string" must be number
+
+		110 more files with the same issue
+
+		y
+		/sub-1475259024/ses-1475389906/icephys/sub-1475259024_ses-1475389906_electrodes.json - Format "string" must be number
+		/sub-1475259024/ses-1475395904/icephys/sub-1475259024_ses-1475395904_electrodes.json - Format "string" must be number
+
+		110 more files with the same issue
+
+		impedance
+		/sub-1475259024/ses-1475389906/icephys/sub-1475259024_ses-1475389906_electrodes.json - Format "string" must be number
+		/sub-1475259024/ses-1475395904/icephys/sub-1475259024_ses-1475395904_electrodes.json - Format "string" must be number
+
+		110 more files with the same issue
+
+	Please visit https://neurostars.org/search?q=TSV_COLUMN_TYPE_REDEFINED for existing conversations about this issue.
+
+
+          Summary:                            Available Tasks:        Available Modalities:
+          1145 Files, 15.5 MB                                         microephys           
+          11 - Subjects 112 - Sessions                                                     
+
+	If you have any questions, please post on https://neurostars.org/tags/bids.
